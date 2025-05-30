@@ -1,6 +1,23 @@
 body {
-h2 {
-  color: lightgreen 
-    
-    
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Data Set Project</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="SecondPage.html">Data Set</a></li>
+      <li><a href="drawingapp.html">Page 3</a></li>
+    </ul>
+  </nav>
+  <main>
+    <h1>Data Set Project</h1>
+    <p>Check out my app using data:</p>
+    <a class="project-link" href="https://studio.code.org/projects/applab/NkuowpZTj10HXKA-YW-kIAsoT1SCYscIS0auSpRWEQ8" target="_blank">View Data Set App</a>
+  </main>
+</body>   
 }
